@@ -1,5 +1,6 @@
 venv/
 *.zip
 *.csv
-__pycache__/
-*.txt
+ # Ignore all yob*.txt files (baby names data)
+Names/
+data/

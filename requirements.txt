@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+ucimlrepo
+torchvision
+keras
+tensorflow

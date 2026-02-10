@@ -2,8 +2,9 @@ pandas
 numpy
 matplotlib
 seaborn
-sklearn
+scikit-learn
 ucimlrepo
 torchvision
 keras
 tensorflow
+IPython<8.0

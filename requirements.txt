@@ -8,3 +8,4 @@ torchvision
 keras
 tensorflow
 IPython<8.0
+xgboost
